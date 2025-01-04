@@ -10,4 +10,4 @@ The license header is based on Apache 2.0
 
 The license is available at [DREAMBERD-LICENSE](./DREAMBERD-LICENSE)
 
-SPDX License Identifier is "DreamBerd"
+SPDX license identifier is "DreamBerd"
