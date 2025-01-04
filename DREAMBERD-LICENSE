@@ -1,0 +1,103 @@
+DreamBerd License, Version 1.0
+
+Copyright (c) 2025-present DinhHuy2010 (https://github.com/DinhHuy2010)
+
+Originally for the DreamBerd progamming language (https://github.com/TodePond/DreamBerd)
+
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
+
+NOTICE TO USER: Carefully read the following legal agreement. BY DOWNLOADING, 
+INSTALLING, COPYING, OR OTHERWISE USING THE SOFTWARE, YOU UNEQUIVOCALLY ACCEPT 
+AND AGREE TO BE BOUND BY ALL TERMS AND CONDITIONS OF THIS AGREEMENT. IF YOU DO 
+NOT AGREE, DO NOT DOWNLOAD, INSTALL, COPY, DISTRIBUTE, OR USE THE SOFTWARE.
+
+Permission is hereby granted by <copyright holder>, the <project name> authors 
+and contributors (the "Licensors"), free of charge, to any person or legal 
+entities (the "Licensee") obtaining a copy of this software and associated 
+documentation files (the "Software"), to deal in the Software without 
+restriction, including without limitation the rights to use, copy, modify, 
+merge, publish, distribute, sublicense, and/or sell copies of the Software, 
+and to permit persons to whom the Software is furnished to do so, subject to 
+the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in 
+all copies or substantial portions of the Software in its source code form.
+
+2. Redistribution of the Software in binary form must include this License and 
+the following notice:
+     "This software contains code from <project name> by <copyright holder>, 
+the <project name> authors and contributors."
+
+3. Unless explicitly granted, neither the names, trademarks, logos nor 
+intellectual properties of the Licensors may be used to endorse or promote 
+products derived from the Software.
+
+4. This license shall be governed by and construed in accordance with the laws 
+of jurisdiction where the <copyright holder> is legally domiciled or 
+incorporated, excluding its conflict of law principles.
+
+5. In the event of a conflict between the terms of this License and those of 
+the copyleft licenses, such GNU General Public License (GPL) or the Mozilla 
+Public License (MPL), the Licensee may choose to comply with the terms of 
+either this License or the copyleft license in its entirely.
+
+6. The Software may include code or libraries from third-party projects that 
+are licensed under their own terms. The Licensors disclaim any warranties and 
+liabilities for such third-party code. The Licensee agrees to comply with the 
+applicable licenses governing third-party dependencies.
+
+7. The Licensee agrees to comply with all applicable local, national and 
+international export and re-export laws and regulations, including those of 
+the jurisdiction where the Licensors is legally domiciled or incorporated. The 
+Software must not be used, exported, or re-exported to countries or entities 
+prohibited under such laws.
+
+8. In event that Licensee violates any section of this License, Licensors will 
+terminate this License to Licensee. Upon termination, the Licensee must 
+immediately cease all use, distribution, and modification of the Software and 
+delete all copies of the Software in their possession. This termination does 
+not limit any rights or remedies available to the Licensors under applicable 
+law.
+
+9. By submitting code or other material to the <project name>, the Licensee's 
+contributors agree to grant Licensors a perpetual, worldwide, non-exclusive, 
+royalty-free license to use, modify, sublicense, and distribute their 
+contributions as part of the <project name> under the terms of this license.
+
+10. In addition to terms and conditions of this license, the Licensors hereby 
+grants to the Licensee a perpetual, worldwide, non-exclusive, no-charge, 
+royalty-free, irrevocable license to make, have made, use, sell, offer to 
+sell, import, and otherwise transfer the Software, where such license applies 
+only to those patent claims licensable by the Licensors that are necessarily 
+infringed by the Software as distributed by the Licensors. This patent license 
+does not apply to any modifications made to the Software by the Licensee or 
+any third party, nor does it apply to any combinations of the Software with 
+other software not distributed by the Licensors, unless such combination is 
+specifically described in the Software documentation provided by the 
+Licensors.
+
+THE <project name is all caps> IS PROVIDED BY LICENSORS "AS IS", WITHOUT 
+WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
+WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSORS BE LIABLE FOR ANY CLAIM, 
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR 
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE 
+OR OTHER DEALINGS IN THE SOFTWARE.
+
+License header:
+Copyright (c) <year> <copyright holder>, the <project name> authors and 
+contributors, all rights reserved.
+
+Licensed under the DreamBerd License, Version 1.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at https://github.com/DinhHuy2010/DreamBerd-license
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+SPDX-License-Identifier: DreamBerd
